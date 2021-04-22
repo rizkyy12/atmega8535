@@ -1,3 +1,3 @@
 # atmega8535
 yosh!
-how to use it? ctr c ctrl v
+how to use it? ctrl c ctrl v
