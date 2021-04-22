@@ -4,7 +4,7 @@ unsigned char btn0 = 0x00;
 
 void setup() {
   DDRA = 0x00; //sebagai input
-  DDRB = 0xFF; //sebagain output
+  DDRB = 0xFF; //sebagai output
 }
 
 void s0(){
