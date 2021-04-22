@@ -7,7 +7,7 @@ void setup() {
   DDRA &= ~(1 << PINA0);
   DDRA &= ~(1 << PINA1);
   DDRA &= ~(1 << PINA2);
-  DDRB = 0xFF; //sebagain output
+  DDRB = 0xFF; //sebagai output
 }
 
 void s0(){
